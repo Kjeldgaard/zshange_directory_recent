@@ -1,0 +1,1 @@
+/mnt/c/projects/dotfiles/.oh-my-zsh/custom/zdr.zsh
